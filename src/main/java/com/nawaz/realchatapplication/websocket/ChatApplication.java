@@ -1,4 +1,4 @@
-package com.alibou.websocket;
+package com.nawaz.realchatapplication.websocket;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
